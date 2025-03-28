@@ -1,0 +1,19 @@
+{
+  "name": "parcial1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMTB00052571903/parcial1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KMTB00052571903/parcial1/issues"
+  },
+  "homepage": "https://github.com/KMTB00052571903/parcial1#readme"
+}
