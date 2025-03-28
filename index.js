@@ -1,4 +1,0 @@
-class Small extends HTMLElement 
-
-
-
